@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="search">Поиск</string>
+    <string name="enter_city_name">Город</string>
+    <string name="temperature">%1$.0f °C</string>
+    <string name="weather_in_city">Погода в городе</string>
+    <string name="pressure_stat">Давление: %1$d мм рт.ст.</string>
+    <string name="wind_stat">Ветер: %1$s, %2$.0f м/с</string>
+    <string name="N">С</string>
+    <string name="NW">С-З</string>
+    <string name="W">З</string>
+    <string name="SW">Ю-З</string>
+    <string name="S">Ю</string>
+    <string name="SE">Ю-В</string>
+    <string name="E">В</string>
+    <string name="NE">С-В</string>
+    <string name="city_not_found">К сожалению,\nпогода в городе \"%1$s\" неизвестна</string>
+    <string name="internet_error">Проверьте Интернет-соединение</string>
+    <string name="five_days_forecast">Прогноз на 5 дней</string>
+    <string name="back">Назад</string>
+    <string name="morning">Утром</string>
+    <string name="day">Днём</string>
+    <string name="evening">Вечером</string>
+    <string name="night">Ночью</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="pressure">Давление</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure_measure">мм рт.ст.</string>
+    <string name="wind_measure">%1$.0f м/с</string>
+    <string name="wind_stat_up_to">До %1$.0f м/с</string>
+    <string name="result_not_succeeded">Извините,\nпогода в Вашем городе не найдена</string>
+</resources>

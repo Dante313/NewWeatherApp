@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="search">Search</string>
+    <string name="enter_city_name">City</string>
+    <string name="temperature">%1$.0f °F</string>
+    <string name="weather_in_city">Weather in city</string>
+    <string name="pressure_stat">Pressure: %1$d mm Hg</string>
+    <string name="pressure_measure">mm Hg</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_stat">Wind: %1$s,  %2$.0f m/s</string>
+    <string name="wind">Wind</string>
+    <string name="wind_measure">%1$.0f m/s</string>
+    <string name="wind_stat_up_to">Up to %1$.0f m/s</string>
+    <string name="N">N</string>
+    <string name="NW">N-W</string>
+    <string name="W">W</string>
+    <string name="SW">S-W</string>
+    <string name="S">S</string>
+    <string name="SE">S-E</string>
+    <string name="E">E</string>
+    <string name="NE">N-E</string>
+    <string name="city_not_found">Unfortunately,\nthe weather in city \"%1$s\" was not found</string>
+    <string name="result_not_succeeded">Sorry,\nweather in your city is not found</string>
+    <string name="internet_error">Check your Internet connection</string>
+    <string name="five_days_forecast">Forecast for 5 days</string>
+    <string name="back">Back</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="morning">Morning</string>
+    <string name="day">Day</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="feels_like">Feels like</string>
+    <string name="temperature_degree" translatable="false">%1$.0f°</string>
+</resources>
